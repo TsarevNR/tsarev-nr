@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 tsarevnr tsarevnr 4,0K фев 14 06:03 ./
+drwxr-x--- 16 tsarevnr tsarevnr 4,0K фев 14 06:00 ../
+-rw-rw-r--  1 tsarevnr tsarevnr  615 фев 14 06:02 config.txt
+-rw-rw-r--  1 tsarevnr tsarevnr  169 фев 14 06:01 first.txt
+drwxrwxr-x  8 tsarevnr tsarevnr 4,0K фев 14 06:03 .git/
+-rw-rw-r--  1 tsarevnr tsarevnr    0 фев 14 06:03 ls.txt
+-rw-rw-r--  1 tsarevnr tsarevnr   11 фев 14 05:58 README.md
+-rw-rw-r--  1 tsarevnr tsarevnr  408 фев 14 06:01 status.txt
